@@ -97,6 +97,25 @@ Reserved  [ ] [ ] [ ] [ ] [ ]  Bold
 
 ---
 
+## Competitor Intelligence
+
+### Primary Competitors Tracked
+| Competitor | Profile | Last Updated | Next Review |
+|------------|---------|--------------|-------------|
+| | `competitors/{name}.md` | | |
+| | `competitors/{name}.md` | | |
+| | `competitors/{name}.md` | | |
+
+### Monitoring Cadence
+- **Weekly**: Social/blog activity, news mentions
+- **Monthly**: Pricing, feature changes, reviews
+- **Quarterly**: Full profile refresh, battlecard updates
+
+### Active Battlecards
+- [ ] [Competitor] — `output/competitor-research/battlecard_{competitor}_{date}.md`
+
+---
+
 ## Product/Service Details
 
 ### Key Features
@@ -154,6 +173,32 @@ Reserved  [ ] [ ] [ ] [ ] [ ]  Bold
 - GA4:
 - Mixpanel/Amplitude:
 - Other:
+
+---
+
+## Content Calendar
+
+### Content Pillars
+1. [Pillar]: [Description]
+2. [Pillar]: [Description]
+3. [Pillar]: [Description]
+
+### Publishing Schedule
+| Channel | Frequency | Best Days/Times |
+|---------|-----------|-----------------|
+| Email | | |
+| LinkedIn | | |
+| Twitter | | |
+| Blog | | |
+
+### Planning Cadence
+- **Weekly planning**: [Day]
+- **Monthly planning**: [Day of month]
+
+### Active Campaigns
+| Campaign | Status | Dates | Plan File |
+|----------|--------|-------|-----------|
+| | | | |
 
 ---
 

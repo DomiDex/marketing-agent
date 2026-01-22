@@ -41,13 +41,14 @@ A comprehensive marketing assistant that handles the full spectrum of SaaS marke
 - [x] Create README documentation
 - [x] Add example outputs (copywriting, page-cro, email-sequence)
 
-### Phase 2: Integration (Current)
+### Phase 2: Integration (Complete)
 - [x] Client profile template system (`clients/_template.md`)
 - [x] Multi-skill workflow templates (`workflows/`)
-- [ ] Competitor research templates
-- [ ] Content calendar integration
+- [x] Competitor research skill (`competitor-research`)
+- [x] Content calendar skill (`content-calendar`)
+- [x] Content batch workflow (`workflows/content-batch.md`)
 
-### Phase 3: Automation
+### Phase 3: Automation (Current)
 - [ ] Batch content generation
 - [ ] Performance tracking
 - [ ] Iteration workflows

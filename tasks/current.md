@@ -9,6 +9,8 @@ _No active tasks_
 - [ ] Test each skill with a sample project
 - [ ] Set up first client profile using `clients/_template.md`
 - [ ] Run landing-page-launch workflow end-to-end
+- [ ] Run content-batch workflow end-to-end
+- [ ] Test competitor-research skill (battlecard + profile)
 
 ## Completed
 
@@ -20,6 +22,10 @@ _No active tasks_
 - [x] Add example outputs for copywriting, page-cro, email-sequence (2026-01-22)
 - [x] Create README.md documentation (2026-01-22)
 - [x] Create workflow templates: landing-page-launch, email-campaign (2026-01-22)
+- [x] Create competitor-research skill (2026-01-22)
+- [x] Create content-calendar skill (2026-01-22)
+- [x] Create content-batch workflow (2026-01-22)
+- [x] Update client template with competitor intelligence + content calendar sections (2026-01-22)
 
 ---
 
