@@ -36,6 +36,7 @@ All generated content goes to `output/{skill-name}/`:
 
 | Skill | Use For |
 |-------|---------|
+| `/idea-to-spec` | Brainstorm ideas, turn them into specs/plans |
 | `/copywriting` | Landing pages, homepage, feature pages |
 | `/page-cro` | Conversion optimization audits |
 | `/email-sequence` | Drip campaigns, onboarding emails |

@@ -4,6 +4,23 @@
 
 ---
 
+## Quick Start
+
+### Minimum Viable Profile (complete these first)
+- [ ] Company Overview
+- [ ] One-liner & Value Proposition
+- [ ] Primary Persona
+- [ ] Brand Voice Profile
+- [ ] Top 3 Competitors
+- [ ] Current Goals
+
+### Last Updated
+- **Date**:
+- **By**:
+- **Changes**:
+
+---
+
 ## Company Overview
 
 | Field | Details |
@@ -22,21 +39,190 @@
 
 ---
 
+## Positioning & Strategy
+
+### Positioning Statement
+> For [target customer] who [need/opportunity], [product name] is a [category] that [key benefit]. Unlike [alternatives], we [key differentiator].
+
+### ICP Scoring Criteria
+| Criteria | Weight | Ideal | Acceptable | Disqualified |
+|----------|--------|-------|------------|--------------|
+| Company size | | | | |
+| Industry | | | | |
+| Budget | | | | |
+| Tech stack | | | | |
+| Pain urgency | | | | |
+
+### Market Context
+- **TAM**:
+- **SAM**:
+- **SOM**:
+- **Key trends**:
+
+### Customer Journey
+| Stage | Customer Mindset | Key Questions | Content Needed |
+|-------|------------------|---------------|----------------|
+| Awareness | | | |
+| Consideration | | | |
+| Decision | | | |
+| Onboarding | | | |
+| Expansion | | | |
+
+---
+
 ## Target Audience
 
-### Primary Persona
-- **Role/Title**:
-- **Company size**:
-- **Pain points**:
-- **Goals**:
-- **Objections**:
+### Persona Priority
+| Persona | Revenue % | Acquisition Ease | Strategic Value |
+|---------|-----------|------------------|-----------------|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
 
-### Secondary Persona
+### Persona 1: {Name} (Primary)
 - **Role/Title**:
 - **Company size**:
-- **Pain points**:
-- **Goals**:
-- **Objections**:
+- **Industry vertical**:
+
+#### Jobs to Be Done
+- **Functional**: What they need to accomplish
+- **Emotional**: How they want to feel
+- **Social**: How they want to be perceived
+
+#### Pain Points (ranked)
+1. [Critical]
+2. [Important]
+3. [Nice to fix]
+
+#### Goals (ranked)
+1.
+2.
+3.
+
+#### Objections & Concerns
+| Objection | Response |
+|-----------|----------|
+| | |
+| | |
+| | |
+
+#### Where They Spend Time
+- **Publications**:
+- **Communities**:
+- **Events**:
+- **Influencers they follow**:
+
+---
+
+### Persona 2: {Name}
+- **Role/Title**:
+- **Company size**:
+- **Industry vertical**:
+
+#### Jobs to Be Done
+- **Functional**:
+- **Emotional**:
+- **Social**:
+
+#### Pain Points (ranked)
+1.
+2.
+3.
+
+#### Goals (ranked)
+1.
+2.
+3.
+
+#### Objections & Concerns
+| Objection | Response |
+|-----------|----------|
+| | |
+| | |
+
+#### Where They Spend Time
+- **Publications**:
+- **Communities**:
+- **Events**:
+- **Influencers they follow**:
+
+---
+
+### Persona 3: {Name}
+- **Role/Title**:
+- **Company size**:
+- **Industry vertical**:
+
+#### Jobs to Be Done
+- **Functional**:
+- **Emotional**:
+- **Social**:
+
+#### Pain Points (ranked)
+1.
+2.
+3.
+
+#### Goals (ranked)
+1.
+2.
+3.
+
+#### Objections & Concerns
+| Objection | Response |
+|-----------|----------|
+| | |
+| | |
+
+#### Where They Spend Time
+- **Publications**:
+- **Communities**:
+- **Events**:
+- **Influencers they follow**:
+
+---
+
+### Persona 4: {Name}
+- **Role/Title**:
+- **Company size**:
+- **Industry vertical**:
+
+#### Jobs to Be Done
+- **Functional**:
+- **Emotional**:
+- **Social**:
+
+#### Pain Points (ranked)
+1.
+2.
+3.
+
+#### Goals (ranked)
+1.
+2.
+3.
+
+#### Objections & Concerns
+| Objection | Response |
+|-----------|----------|
+| | |
+| | |
+
+#### Where They Spend Time
+- **Publications**:
+- **Communities**:
+- **Events**:
+- **Influencers they follow**:
+
+---
+
+### Anti-Personas (Do Not Target)
+| Type | Why Not | Red Flags |
+|------|---------|-----------|
+| | | |
+| | | |
+| | | |
 
 ### Buying Process
 - **Decision maker**:
@@ -47,13 +233,15 @@
 
 ## Brand Voice
 
-### Tone Spectrum (mark with X)
-```
-Formal    [ ] [ ] [ ] [ ] [ ]  Casual
-Serious   [ ] [ ] [ ] [ ] [ ]  Playful
-Technical [ ] [ ] [ ] [ ] [ ]  Simple
-Reserved  [ ] [ ] [ ] [ ] [ ]  Bold
-```
+### Brand Voice Profile
+| Dimension | Score (1-5) | Notes |
+|-----------|-------------|-------|
+| Formal ↔ Casual | | |
+| Serious ↔ Playful | | |
+| Technical ↔ Simple | | |
+| Reserved ↔ Bold | | |
+
+*1 = left side, 5 = right side, 3 = neutral*
 
 ### Personality Traits
 -
@@ -71,9 +259,9 @@ Reserved  [ ] [ ] [ ] [ ] [ ]  Bold
 -
 
 ### Voice Examples
-> Good example of on-brand copy:
+> **Good example** of on-brand copy:
 
-> Bad example to avoid:
+> **Bad example** to avoid:
 
 ---
 
@@ -136,6 +324,41 @@ Reserved  [ ] [ ] [ ] [ ] [ ]  Bold
 
 ---
 
+## Key Metrics
+
+### Unit Economics
+| Metric | Current | Target | Benchmark |
+|--------|---------|--------|-----------|
+| CAC | | | |
+| CLV | | | |
+| LTV:CAC | | | |
+| Payback period | | | |
+
+### Funnel Benchmarks
+| Stage | Current Rate | Target | Industry Avg |
+|-------|--------------|--------|--------------|
+| Visitor → Lead | | | |
+| Lead → Trial | | | |
+| Trial → Paid | | | |
+| Monthly churn | | | |
+
+### Acquisition Channels
+| Channel | % of Leads | CAC | Quality Score |
+|---------|------------|-----|---------------|
+| Organic search | | | |
+| Paid ads | | | |
+| Referral | | | |
+| Direct | | | |
+| Social | | | |
+
+### SEO Baseline
+- **Domain Authority**:
+- **Top ranking keywords**:
+- **Organic traffic/mo**:
+- **Top performing pages**:
+
+---
+
 ## Social Proof
 
 ### Metrics
@@ -154,6 +377,34 @@ Reserved  [ ] [ ] [ ] [ ] [ ]  Bold
 
 ### Trust Badges
 -
+
+---
+
+## Content Strategy
+
+### Keyword/Topic Clusters
+| Cluster | Primary Keyword | Volume | Difficulty | Priority |
+|---------|-----------------|--------|------------|----------|
+| | | | | |
+| | | | | |
+| | | | | |
+
+### Content Audit Summary
+| Content Type | Count | Top Performer | Avg. Traffic |
+|--------------|-------|---------------|--------------|
+| Blog posts | | | |
+| Landing pages | | | |
+| Case studies | | | |
+| Videos | | | |
+
+### Distribution Channel Priorities
+| Channel | Priority | Current State | Investment Needed |
+|---------|----------|---------------|-------------------|
+| Organic search | | | |
+| Email | | | |
+| Social | | | |
+| Paid | | | |
+| Partnerships | | | |
 
 ---
 
@@ -198,6 +449,47 @@ Reserved  [ ] [ ] [ ] [ ] [ ]  Bold
 ### Active Campaigns
 | Campaign | Status | Dates | Plan File |
 |----------|--------|-------|-----------|
+| | | | |
+
+---
+
+## Client Operations
+
+### Key Contacts
+| Role | Name | Email | Notes |
+|------|------|-------|-------|
+| Main contact | | | |
+| Decision maker | | | |
+| SME | | | |
+| Billing | | | |
+
+### Communication
+- **Preferred channel**: Slack / Email / Calls
+- **Response time expected**:
+- **Meeting cadence**:
+- **Time zone**:
+
+### Tech Stack
+| Category | Tool | Access? |
+|----------|------|---------|
+| CMS | | |
+| Email platform | | |
+| Analytics | | |
+| CRM | | |
+| Marketing automation | | |
+| Design | | |
+
+### Budget & Constraints
+- **Monthly marketing budget**:
+- **Content production capacity**:
+- **Approval requirements**:
+- **Compliance/legal constraints**:
+
+### Project History
+| Date | Project | Outcome | Files |
+|------|---------|---------|-------|
+| | | | |
+| | | | |
 | | | | |
 
 ---
