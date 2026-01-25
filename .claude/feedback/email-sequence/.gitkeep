@@ -1,0 +1,7 @@
+# Email Sequence Feedback
+
+Place feedback files for `/email-sequence` skill outputs here.
+
+**Naming convention:** `YYYY-MM-DD_{descriptor}.md`
+
+Example: `2026-01-23_welcome-sequence.md`

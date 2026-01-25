@@ -48,9 +48,14 @@ A comprehensive marketing assistant that handles the full spectrum of SaaS marke
 - [x] Content calendar skill (`content-calendar`)
 - [x] Content batch workflow (`workflows/content-batch.md`)
 
-### Phase 3: Automation (Current)
+### Phase 3: Automation & Improvement (Current)
 - [ ] Batch content generation
-- [ ] Performance tracking
+- [x] Per-skill rules framework (RULES.md per skill)
+- [x] Feedback collection system (`.claude/feedback/`)
+- [x] Performance metrics tracking (`.claude/metrics/`)
+- [x] Skill improvement workflow (`workflows/skill-improvement.md`)
+- [ ] Rollout RULES.md to remaining skills (32+ remaining)
+- [ ] First improvement cycle (collect feedback, update rules)
 - [ ] Iteration workflows
 
 ## Target Users

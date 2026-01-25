@@ -6,6 +6,15 @@ _No active tasks_
 
 ## Up Next
 
+### Skill Improvement System (Priority)
+- [x] Test `/copywriting` with RULES.md and collect feedback
+  - Yaz Automate homepage copy (2026-01-23)
+- [ ] Test `/page-cro` with RULES.md and collect feedback
+- [ ] Test `/email-sequence` with RULES.md and collect feedback
+- [ ] Run first skill improvement cycle (after 3-5 outputs)
+- [ ] Rollout RULES.md to next batch of skills (5-10 skills)
+
+### Existing Tasks
 - [ ] Test each skill with a sample project
 - [ ] Set up first client profile using `clients/_template.md`
 - [ ] Run landing-page-launch workflow end-to-end
@@ -26,6 +35,17 @@ _No active tasks_
 - [x] Create content-calendar skill (2026-01-22)
 - [x] Create content-batch workflow (2026-01-22)
 - [x] Update client template with competitor intelligence + content calendar sections (2026-01-22)
+- [x] Create per-skill rules framework (2026-01-23)
+  - RULES.md for copywriting, page-cro, email-sequence
+  - CHANGELOG.md for each pilot skill
+- [x] Create feedback collection system (2026-01-23)
+  - `.claude/feedback/_template.md`
+  - Feedback directories for pilot skills
+- [x] Create metrics tracking system (2026-01-23)
+  - `.claude/metrics/summary.md`
+  - Skill-specific metrics files
+- [x] Create skill improvement workflow (2026-01-23)
+  - `workflows/skill-improvement.md`
 
 ---
 

@@ -4,11 +4,11 @@ A Claude-powered marketing assistant with 23 specialized skills for SaaS and sof
 
 ## Quick Start
 
-1. **Set up a client profile**
+1. **Set up a client knowledge base**
    ```
-   cp clients/_template.md clients/your-client/profile.md
+   cp -r clients/_template clients/your-client
    ```
-   Fill in brand voice, audience, and product details.
+   Start with `profile.md` and `brand/voice.md`, then fill in other files as needed.
 
 2. **Run a skill**
    ```
@@ -72,7 +72,17 @@ marketing-agent/
 │   ├── skills/          # Skill implementations (23 skills)
 │   └── rules.md         # Quality standards
 ├── clients/
-│   └── _template.md     # Client profile template
+│   ├── _template/       # Client knowledge base template (copy for new clients)
+│   │   ├── README.md    # Quick start for this client
+│   │   ├── profile.md   # Core company info
+│   │   ├── brand/       # Voice, messaging, assets
+│   │   ├── audience/    # ICPs, anti-personas, journey
+│   │   ├── product/     # Overview, pricing, differentiators
+│   │   ├── market/      # Competitors, industry, proof
+│   │   ├── research/    # Interviews, surveys, notes
+│   │   ├── operations/  # Contacts, process, tools
+│   │   └── projects/    # History, active work
+│   └── {client-name}/   # Actual client directories
 ├── output/
 │   └── {skill-name}/    # Generated content by skill
 ├── workflows/           # Multi-skill workflow templates

@@ -25,12 +25,26 @@ All generated content goes to `output/{skill-name}/`:
 - Back claims with specifics (numbers, examples)
 - Write for scanning (headers, bullets, short paragraphs)
 
+## Client Knowledge Base
+
+Each client has a directory in `clients/{client-name}/` with:
+- `profile.md` — Core company info
+- `brand/voice.md` — How they sound
+- `brand/messaging.md` — Positioning & value props
+- `audience/primary-icp.md` — Who they sell to
+- `product/overview.md` — What they sell
+- `market/competitors.md` — Competitive landscape
+- `market/proof.md` — Testimonials & case studies
+
+Start new clients by copying the template: `cp -r clients/_template clients/{new-client}`
+
 ## Workflow
 
 1. Check `tasks/current.md` for active work
 2. Reference `plan/big_plan.md` for strategic context
-3. Follow `.claude/rules.md` for quality standards
-4. Save outputs to appropriate `output/` subdirectory
+3. Load client context from `clients/{client}/`
+4. Follow `.claude/rules.md` for quality standards
+5. Save outputs to appropriate `output/` subdirectory
 
 ## Quick Reference
 
